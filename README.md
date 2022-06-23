@@ -7,7 +7,8 @@ The objective of the analysis is to determine the number of retiring employees p
 ---
 ## Results
 
-The breakdown of retiring employees per job title is shown in image below. table below, shows a summary of the differences in ride-sharing data among the different city types.
+The breakdown of retiring employees per job title is shown in image below.
+
 ![](Retiring_Emp_Title.png)
 
 The summary of the data provides the following observations: 
