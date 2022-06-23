@@ -2,12 +2,12 @@
 
 ## Overview 
 
-The objective of the analysis is to determine the number of retiring employees per job title and prepare a future hiring plan as well as implementing a mentorship program by identifying employees who are eligible to parcipate.
+The objective of the analysis is to determine the number of retiring employees per job title to help prepare a future hiring plan as well as implementing a mentorship program by identifying employees who are eligible to parcipate.
 
 ---
 ## Results
 
-The table below, shows a summary of the differences in ride-sharing data among the different city types.
+The breakdown of retiring employees per job title is shown in image below. table below, shows a summary of the differences in ride-sharing data among the different city types.
 ![](analysis/Pyber_Summary_by_City.png)
 
 The summary of the data provides the following observations: 
