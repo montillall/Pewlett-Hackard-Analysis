@@ -8,7 +8,7 @@ The objective of the analysis is to determine the number of retiring employees p
 ## Results
 
 The breakdown of retiring employees per job title is shown in image below. table below, shows a summary of the differences in ride-sharing data among the different city types.
-![](analysis/Pyber_Summary_by_City.png)
+![](Retiring_Emp_Title.png)
 
 The summary of the data provides the following observations: 
 * There is a higher demand for rides in suburban and rural cities than urban cities compared to the total drivers available.
