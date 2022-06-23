@@ -14,8 +14,7 @@ FROM employees AS e
 WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 ORDER BY emp_no;
 	
-SELECT * FROM retirement_titles;		
-	
+--SELECT * FROM retirement_titles;		
 
 -- Use Distinct with Orderby to remove duplicate rows
 SELECT DISTINCT ON (re_ti.emp_no) re_ti.emp_no,
@@ -26,16 +25,19 @@ INTO unique_titles
 FROM retirement_titles AS re_ti
 WHERE to_date = '9999-01-01'
 ORDER BY emp_no, from_date DESC;
+	
+SELECT * FROM unique_titles;
 
--- Retrieve numbers of employees by their most recent job title about to retire
+-- Retrieve numbers of employees by their recent job title about to retire
 SELECT COUNT (un_ti.title) AS "count", un_ti.title
 INTO retiring_titles
 FROM unique_titles AS un_ti
 GROUP BY title
 ORDER BY "count" DESC;
 
+SELECT * FROM dept_emp;	
 
--- Employees eligible to participate in a mentorship program
+-- Deliverable 2: Employees eligible to participate in a mentorship program
 SELECT DISTINCT ON (e.emp_no) e.emp_no,
 	e.first_name,
 	e.lat_name,
@@ -52,6 +54,8 @@ FROM employees AS e
 WHERE (de.to_date = '9999-01-01')
 AND (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY emp_no;
+
+SELECT * FROM retiring_titles;
 
 
 
