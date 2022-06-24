@@ -21,8 +21,8 @@ The breakdown of eligible retiring employees per job title is shown in image bel
 ---
 ## Summary
 
-The recomendations to the CEO would be to increase the amount of drivers in rural and suburban cities in order to supply the ride demand in those cities therefore reduce the average fare per ride and driver.  
+The analysis shows that there are 50842 jobs that will need to be filled as the "silver tsunami" begins to make an impact, therefore a hiring plan needs to be in place. It also shows that there are 1549 employees who are eligible to participate in a mentorship program, which demosntartes that there are not enough for the total amount of people  
 
-
+![](Total_Mentors.png)
 
 ---
