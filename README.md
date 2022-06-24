@@ -15,7 +15,7 @@ The breakdown of eligible retiring employees per job title is shown in image bel
 * The majority of eligible retiring employees are currently ocupying senior senior positions which could be assumed that these employees will retired at any given time.
 * With respect to the mentorship program, it was identified that there are 1549 employees who are eligible to participate in a mentorship program. See table below.
 
-![](analysis/Weekly_total_fare.png)
+![](Mentor_Employees.png)
 
 
 ---
