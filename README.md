@@ -21,7 +21,7 @@ The breakdown of eligible retiring employees per job title is shown in image bel
 ---
 ## Summary
 
-The analysis shows that there are 50842 jobs that will need to be filled as the "silver tsunami" begins to make an impact, therefore a hiring plan needs to be in place. It also shows that there are 1549 employees who are eligible to participate in a mentorship program, which demosntartes that there are not enough for the total amount of people  
+The analysis shows that there are 50842 jobs that will need to be filled as the "silver tsunami" begins to make an impact, therefore a hiring plan needs to be in place. It also shows that there are 1549 employees who are eligible to participate in a mentorship program, which demonstrates that there are not enough for the total amount of people  
 
 ![](Total_Mentors.png)
 
