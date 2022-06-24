@@ -11,10 +11,10 @@ The breakdown of eligible retiring employees per job title is shown in image bel
 
 ![](Retiring_Emp_Title.png)
 
-* The results are showing that there is a high percentage of employees in the senior positions and therefore could retire at any time.
-* Urban cities have a ratio of about 2 drivers per ride, (more drivers than required rides).
-* The average fares per ride and per driver is higher in rural and suburban cities compared to the urban cities, due to the higher ride demand compared to available drivers. 
-* Total fare revenue is higher in urban cities compared to suburban and rural cities, due to the total amount of rides (61% higher than suburban and 92% higher than rural). See weekly total fare by city plot.
+* The total of eligible retiring employees that were born between 1952 and 1955 is 72458 employees.
+* The majority of eligible retiring employees are currently ocupying senior senior positions which could be assumed that these employees will retired at any given time.
+* With respect to the mentorship program, it was identified that there are 1549 employees who are eligible to participate in a mentorship program. See table below.
+
 ![](analysis/Weekly_total_fare.png)
 
 
